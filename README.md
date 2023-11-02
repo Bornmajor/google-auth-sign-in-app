@@ -24,3 +24,7 @@ Native sign in buttons
 <img src="https://github.com/Bornmajor/google-auth-sign-in-app/assets/98744068/2cdaccd6-2bd9-4f79-b944-1f73b1e7f0d2"  width="200" >
 <img src="https://github.com/Bornmajor/google-auth-sign-in-app/assets/98744068/0350eebf-3c81-4c42-9ff2-68ab50cf4f14"  width="200" >
 
+
+
+https://github.com/Bornmajor/google-auth-sign-in-app/assets/98744068/7fc0bc2c-a3df-457e-885b-12169f38b752
+
